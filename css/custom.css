@@ -1,0 +1,16 @@
+.key-text {
+    margin-left: 10px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+.tech-btn {
+    margin-top: 3px;
+    border: 2px solid grey;
+    border-radius: 5px;
+    padding: 3px 12px;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 3px;
+    text-transform: uppercase;
+}
